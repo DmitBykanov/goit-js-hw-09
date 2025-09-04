@@ -1,0 +1,25 @@
+.back-link {
+  display: inline-block;
+  margin: 8px 0;
+  font-size: 14px;
+  font-weight: 400;
+  color: #fff;
+  background-color: #6204d4;
+  padding: 8px 16px;
+  border-radius: 8px;
+  border: 2px solid #fff;
+  transition: color 200ms ease-in;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+}
+
+.back-link:hover,
+.back-link:focus {
+  color: #6204d4;
+  background-color: #fff;
+  border: 2px solid #6204d4;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
