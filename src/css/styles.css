@@ -4,6 +4,7 @@
 @import url('./header.css');
 @import url('./back-link.css');
 @import url('./gallery.css');
+@import url('./form.css');
 
 .home-image {
   display: block;
